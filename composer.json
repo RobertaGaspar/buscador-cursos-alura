@@ -38,5 +38,6 @@
   },
   "scripts-descriptions": {
     "check": "Runs verification code. PHAN PHPCS and PHPUNIT"
-  }
+  },
+  "license": "GPL-3.0"
 }
